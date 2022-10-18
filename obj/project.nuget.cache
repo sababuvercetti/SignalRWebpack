@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7t7AOqhQEX0WZWci7wOwrD4wIEyekIkCvBNi3XQ6R0Y7XnqvCINK3IypgDYlvRF3BRr3pb77IJpelbsJVPwmoA==",
+  "success": true,
+  "projectFilePath": "/Users/sababuvercetti/Projects/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/Users/sababuvercetti/.nuget/packages/microsoft.typescript.msbuild/4.8.4/microsoft.typescript.msbuild.4.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}
